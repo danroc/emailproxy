@@ -1,1 +1,1 @@
-emailproxy==2025.10.4
+emailproxy==2026.7.3
